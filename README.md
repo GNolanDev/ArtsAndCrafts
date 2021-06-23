@@ -1,6 +1,6 @@
 # ArtsAndCrafts
 ## Aim
-A project set by Codecademy as part of the full stack path. Create a simple webpage to match the given design brief (see docs/dasmotos-arts_redline.jpg).
+A project set by Codecademy as part of the full stack path. Create a simple webpage to match the given design brief (see brief/dasmotos-arts_redline.jpg).
 ## Technologies
 - HTML5
 - CSS3
